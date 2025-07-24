@@ -1,3 +1,3 @@
 ## Contributors
-- Eyob Degafe
+- Dawit
 - [Any other teammate name]
